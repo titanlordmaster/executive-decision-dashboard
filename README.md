@@ -1,4 +1,3 @@
-````markdown
 # Executive Decision Support Dashboard (SQL + Python + Dash)
 
 This project builds an **executive decision support dashboard** using:
