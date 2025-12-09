@@ -1,4 +1,3 @@
-````markdown
 # Executive Decision Support Dashboard (SQL + Python + Dash)
 
 This project builds an **executive decision support dashboard** using:
@@ -29,7 +28,7 @@ The dashboard surfaces key KPIs (profit, sales, margins, customer/department per
 ├── D211.ipynb          # Main Jupyter Notebook (data prep + dashboard code)
 ├── d211.db             # SQLite database with core business tables
 ├── kaggle_data.csv     # External data source (supplemental BI data)
-├── Instructions.pdf    # Original installation & navigation instructions
+├── REPORT.md           # Original report
 └── README.md           # This file
 ````
 
